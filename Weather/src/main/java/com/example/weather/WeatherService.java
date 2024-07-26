@@ -9,7 +9,7 @@ import javafx.scene.control.TextArea;
 
 public class WeatherService {
 
-    private static final String API_KEY = "5354919fd2f702177e0bf46036158b74"; // Sua chave de API do OpenWeatherMap
+    private static final String API_KEY = "5354919fd2f702177e0bf46036158b74"; 
     private static final String BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
     private TextArea resultArea;
 
